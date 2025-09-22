@@ -13,8 +13,8 @@ changes here
 - configuration:
     - `edns-buffer-size`
     - `max-udp-size`
-- value        : 1232
+- value        : `1232`
 
 ## CNAME restarts
 - configuration: `max-query-restarts`
-- value        : 11
+- value        : `11`
